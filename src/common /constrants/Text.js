@@ -1,0 +1,9 @@
+export const INCREMENT = 'Increment';
+export const DECREMENT = 'Decrement';
+export const ADDED_PRODUCTS = 'Added Products';
+export const COUNT = 'Count';
+export const PRODUCTS = 'Products';
+export const ADD_TO_CART = 'Add to cart';
+export const REMOVE = 'Remove';
+export const REMOVE_CART = 'Remove cart';
+export const TOTAL_PRODUCTS = 'Total Products';
