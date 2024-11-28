@@ -7,8 +7,8 @@ import ProviderSetup from './src/screens/ProviderSetup';
 import AddedProducts from './src/screens/AddedProducts';
 import {productStore} from './src/redux/PoductStore';
 
-const Stack = createStackNavigator(); 
-
+const Stack = createStackNavigator();
+//ewadsx
 const App = () => {
   return (
     <Provider store={productStore}>
